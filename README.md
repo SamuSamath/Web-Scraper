@@ -34,6 +34,9 @@ This project is an API server that extracts reviews from any given product page 
 5. **Frontend Integration**:
    - Use Streamlit to create a user-friendly interface for interacting with the API.
 
+![image](https://github.com/user-attachments/assets/7f2009e1-865f-4977-baf4-d19bf597647b)
+
+
 ## Detailed Steps
 
 ### 1. Scraping Logic
